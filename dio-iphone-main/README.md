@@ -22,7 +22,7 @@ O projeto conta com três interfaces, onde:
 
 O projeto também contém um diagrama de classes como o abaixo:
 
-![Diagrama de Classes](https://github.com/Kailaine-17/dio-iphone/assets/106684045/9526df85-152a-4485-a1e7-2961ff9814d8)
+![Diagrama de Classes](https://github.com/Kailaine-17/dio-iphone/blob/main/dio-iphone-main/Diagrama%20de%20Classes.png)
 
 
 ## Dependency Management
